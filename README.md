@@ -102,4 +102,13 @@ Developed an **end-to-end supply chain analysis solution** combining SQL and Pow
 
 ## Dashboard Preview
 
-(Add screenshots here: Page 1, Page 2, Page 3)
+### Page 1 – Overview
+![Page_1](Screenshots/Page_1.png)
+
+### Page 2 – Performance Analysis
+![Page_2](Screenshots/Page_2.png)
+
+### Page 3 – Risk & Optimization
+![Page_3](Screenshots/Page_3.png)
+
+
