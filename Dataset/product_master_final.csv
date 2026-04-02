@@ -1,0 +1,6 @@
+product_id,product_name,category,lead_time_days,contribution_margin
+P1,EN8D Bright Bar,Bright Bars,7,0.22
+P2,MS Wire Rod,Wire Rods,5,0.18
+P3,Stainless Steel Bright Bar,Bright Bars,9,0.28
+P4,Copper Wire Rod,Wire Rods,6,0.25
+P5,High Speed Wire Rod,Wire Rods,8,0.3
